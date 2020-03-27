@@ -1,7 +1,7 @@
 # Adam Cohen Coding Test
 
 This project uses django and django rest framework to make an API endpoint that returns the sum of a list of numbers.
-Assumptions that have been made throughout this project have been listed in Assumptions.txt
+Assumptions that have been made throughout this project have been listed in Assumptions.txt.
 
 ## Installation
 
@@ -21,7 +21,8 @@ In your command line, run the command:
 ```
 python manage.py runserver 5000
 ```  
-then navigate to [localhost:5000/total](localhost:5000/total).  
+then navigate to [localhost:5000/total](localhost:5000/total).
+
 If prompted for a login, the details are:  
     Username: admin  
     Password: password123
@@ -30,7 +31,7 @@ An example of the expected output is stored in the file *api.total LIST.json*
 
 ## Testing
 
-Tests are stored in the file *coding\_test/number_sum/tests.py*
+Tests are stored in the file *coding\_test/number_sum/tests.py*.
 To run the tests run command:  
 ```
 python manage.py test
