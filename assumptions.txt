@@ -1,0 +1,6 @@
+I have made the following assumptions in the model:
+
+1. The list of numbers that will be added together will come from another serializer.
+(to reflect this there is a TODO where that serializer would be called)
+2. The list that is provided is pre-validated to ensure it only contains numbers
+3. 
