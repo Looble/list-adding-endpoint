@@ -1,7 +1,7 @@
 # Adam Cohen Coding Test
 
 This project uses django and django rest framework to make an API endpoint that returns the sum of a list of numbers.
-Assumptions that have been made throughout this project have been listed in Assumptions.py
+Assumptions that have been made throughout this project have been listed in Assumptions.txt
 
 ## Installation
 
